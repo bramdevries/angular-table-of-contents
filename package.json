@@ -3,9 +3,29 @@
   "description": "Angular Table of contents: Automatically generate a table of contents",
   "version": "0.0.1",
   "author": "Bram Devries <bram@madewithlove.be>",
-  "dependencies": {},
-  "devDependencies": {
-  },
-  "scripts": {
-  }
+  "dependencies": {
+        "bower": "*",
+        "grunt": "*",
+        "grunt-cli": "*",
+        "glob": "*"
+    },
+    "devDependencies": {
+        "grunt-autoprefixer": "*",
+        "grunt-bower-task": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-compass": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-csslint": "*",
+        "grunt-contrib-cssmin": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-csscss": "*",
+        "grunt-notify": "*",
+        "grunt-svgmin": "*",
+        "grunt-tinypng": "*",
+        "grunt-typescript": "*",
+        "jit-grunt": "*"
+    }
 }

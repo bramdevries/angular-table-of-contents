@@ -1,0 +1,24 @@
+{
+  "name": "angular-table-of-contents",
+  "version": "0.0.1",
+  "authors": [
+    "Bram Devries <bram@madewithlove.be>"
+  ],
+  "description": "Angular Table of contents: Automatically generate a table of contents",
+  "main": "dest/angular-toc.min.js",
+  "keywords": [
+    "Table",
+    "of",
+    "contents",
+    "Angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
