@@ -8,16 +8,8 @@ module.exports = {
 		files: ['Gruntfile.js', '<%= grunt %>/**/*'],
 		tasks: 'default',
 	},
-	img: {
-		files: '<%= paths.original.img %>/**/*',
-		tasks: 'copy',
-	},
 	js: {
 		files: '<%= paths.original.js %>/**/*',
 		tasks: 'js',
-	},
-	css: {
-		files: '<%= paths.original.sass %>/**/*',
-		tasks: 'css',
-	},
+	}
 };

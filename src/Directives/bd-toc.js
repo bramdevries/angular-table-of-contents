@@ -1,10 +1,5 @@
 /*global angular */
 
-angular.module('angular-toc', [
-]);
-
-/*global angular */
-
 angular.module('angular-toc')
 .directive('bdToc', [function () {
 

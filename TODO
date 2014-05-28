@@ -1,9 +1,14 @@
 
 Angular Table Of Contents v0.1.0
     Base features:
-        ☐ Able to place a table of contents with a directive.
-        ☐ Able to select items for the table of contents.
+        [x] Able to place a table of contents with a directive.
+        [] Able to mark an element as a table of contents entry.
+        [] Use id of element to set anchor link
+        [] Use approriate markup
+        [x] Provide a toSlug helper method.
+    Demo:
+        [x] Setup basic demo
     Tests:
-        ☐ Setup Karma
+        [] Setup Karma
     Build:
-        ☐ Setup Grunt
+        [x] Setup Grunt

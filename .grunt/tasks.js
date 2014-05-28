@@ -5,8 +5,7 @@ module.exports = function(grunt) {
     ////////////////////////////////////////////////////////////////////
 
     grunt.registerTask('default', 'Build assets for local', [
-        'js',
-        'minify'
+        'js'
     ]);
 
     grunt.registerTask('rebuild', 'Rebuild all assets from scratch', [
@@ -32,5 +31,6 @@ module.exports = function(grunt) {
     grunt.registerTask('js', 'Build scripts', [
         'jshint',
         'concat:js',
+        'minify'
     ]);
 }
