@@ -1,0 +1,9 @@
+
+Angular Table Of Contents v0.1.0
+    Base features:
+        ☐ Able to place a table of contents with a directive.
+        ☐ Able to select items for the table of contents.
+    Tests:
+        ☐ Setup Karma
+    Build:
+        ☐ Setup Grunt
