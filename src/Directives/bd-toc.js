@@ -26,7 +26,7 @@ angular.module('angular-toc')
 
                 // Prepare the markup
                 var el = '<li>' +
-                            '<a href="#/' + this.slug(title) + '">' + title + '</a>' +
+                            '<a href="#' + this.slug(title) + '">' + title + '</a>' +
                         '</li>';
 
                 // Return the finished element.
