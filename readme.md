@@ -24,7 +24,6 @@ The directive has one attribute:
 | `selector`      | Any selector that will work with jQuery. eg: `li`, `.item h2` |
 
 
-
 ``` html
 <bd-toc selector=".item h2"></bd-toc>
 ```

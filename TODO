@@ -6,6 +6,7 @@ Angular Table Of Contents v0.1.0
         [x] Use id of element to set anchor link
         [x] Use approriate markup
         [x] Provide a toSlug helper method.
+        [] Allow custom classes to be added to the generated ul.
     Demo:
         [x] Setup basic demo
     Tests:

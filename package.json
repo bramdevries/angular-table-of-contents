@@ -1,7 +1,7 @@
 {
   "name": "angular-table-of-contents",
   "description": "Angular Table of contents: Automatically generate a table of contents",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Bram Devries <bram@madewithlove.be>",
   "dependencies": {
         "bower": "*",
